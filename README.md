@@ -20,3 +20,5 @@
 ### JavaScript Consultant
 
 [A Beginner’s Guide to Tech Conferences](https://medium.com/coder-snorts/a-beginners-guide-to-tech-conferences-76c1ed21d024)
+
+[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#how-to-learn)
