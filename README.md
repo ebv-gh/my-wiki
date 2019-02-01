@@ -22,3 +22,13 @@
 [A Beginner’s Guide to Tech Conferences](https://medium.com/coder-snorts/a-beginners-guide-to-tech-conferences-76c1ed21d024)
 
 [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#how-to-learn)
+
+[Programming Notes for Professionals books](https://books.goalkicker.com/)
+
+[The Cornell Note-taking System](http://lsc.cornell.edu/wp-content/uploads/2016/10/Cornell-NoteTaking-System.pdf)
+
+[Teach Yourself Computer Science](https://teachyourselfcs.com/#algorithms)
+
+[On WiFi Stuff](https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46)
+
+[More wifi stuff](https://www.shellhacks.com/how-to-use-aircrack-ng-wifi-password-hacker-tutorial/)
