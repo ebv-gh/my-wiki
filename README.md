@@ -18,3 +18,5 @@
 
 [David wal.sh](https://davidwalsh.name/)
 ### JavaScript Consultant
+
+[A Beginner’s Guide to Tech Conferences](https://medium.com/coder-snorts/a-beginners-guide-to-tech-conferences-76c1ed21d024)
