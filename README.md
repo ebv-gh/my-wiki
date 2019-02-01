@@ -32,3 +32,5 @@
 [On WiFi Stuff](https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46)
 
 [More wifi stuff](https://www.shellhacks.com/how-to-use-aircrack-ng-wifi-password-hacker-tutorial/)
+
+## [Jessie Frazelle's Blog](https://blog.jessfraz.com/)
