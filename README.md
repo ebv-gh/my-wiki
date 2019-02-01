@@ -15,3 +15,6 @@
 
 [Nazariy Markuta](https://markuta.com/)
 ### cyber security
+
+[David wal.sh](https://davidwalsh.name/)
+### JavaScript Consultant
